@@ -48,13 +48,18 @@ button{
   font-size: 25px;
   font-family: "courier new", monospace;
   color:white;
-  margin-left: -260px;
+  margin-left: -290px;
   margin-top: -50px;
   padding: 5px 10px 5px 10px;
   margin-bottom: 20px;
+  text-decoration:underline;
+  text-decoration-style: double;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 button a{
   background-color: #4A88B9;
+
 }
 ul{
   margin-top: 20px;
